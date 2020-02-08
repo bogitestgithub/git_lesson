@@ -1,5 +1,8 @@
 def my_square(x):
-	"""takes a value and returns a value"""
+	"""takes a value and returns a value
+	
+	uses the ** operator
+	"""
 	return(x ** 2)
 
 print(my_square(4))
